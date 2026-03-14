@@ -1,4 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { resolve } from 'node:path'
+import { fileURLToPath } from 'node:url'
+
+const currentDir = fileURLToPath(new URL('.', import.meta.url))
+
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   // Use root app.vue/pages (Nuxt 4 runtime accepts 3; types only list 4|5)
@@ -10,7 +15,7 @@ export default defineNuxtConfig({
   vite: {
     resolve: {
       alias: {
-        '#unhead/composables': 'node_modules/nuxt/dist/head/runtime/composables.js',
+        '#unhead/composables': resolve(currentDir, 'node_modules/nuxt/dist/head/runtime/composables.js'),
       },
     },
   },
