@@ -1,0 +1,70 @@
+[
+  {
+    "category": "Coffee",
+    "items": [
+      {"id":1,"name":"Spanish Latte","price":160,"image":"/images/1.png","available":true,"description":"Rich espresso with condensed milk and a smooth, sweet finish.","variants":["hot","iced"]},
+      {"id":2,"name":"Caramel Macchiato","price":160,"image":"/images/2.png","available":true,"description":"Espresso topped with steamed milk and caramel drizzle.","variants":["hot","iced"]},
+      {"id":3,"name":"Salted Caramel Latte","price":160,"image":"/images/3.png","available":true,"description":"Creamy latte with salted caramel syrup and a hint of sea salt.","variants":["hot","iced"]},
+      {"id":4,"name":"Cafe Latte","price":145,"image":"/images/4.png","available":true,"description":"Classic espresso with steamed milk and a light layer of foam.","variants":["hot","iced"]},
+      {"id":5,"name":"Americano","price":125,"image":"/images/5.png","available":true,"description":"Double shot of espresso with hot water for a bold, smooth cup.","variants":["hot","iced"]},
+      {"id":6,"name":"Cappuccino","price":145,"image":"/images/6.png","available":true,"description":"Equal parts espresso, steamed milk, and velvety foam.","variants":["hot"]}
+    ]
+  },
+  {
+    "category": "Matcha Series",
+    "items": [
+      {"id":7,"name":"Signature Matcha Latte","price":165,"image":"/images/7.png","available":true,"description":"Premium Japanese matcha with steamed milk, smooth and lightly sweet.","variants":["hot","iced"]},
+      {"id":8,"name":"Strawberry Matcha Latte","price":175,"image":"/images/8.png","available":true,"description":"Matcha latte swirled with fresh strawberry puree.","variants":["hot","iced"]},
+      {"id":9,"name":"Dirty Matcha Latte","price":185,"image":"/images/9.png","available":true,"description":"Layered matcha and espresso over milk for a bold twist.","variants":["hot","iced"]},
+      {"id":10,"name":"Unsweetened Matcha Latte","price":155,"image":"/images/10.png","available":true,"description":"Pure matcha and milk with no added sugar.","variants":["hot","iced"]}
+    ]
+  },
+  {
+    "category": "Tea",
+    "items": [
+      {"id":11,"name":"Premium Green Tea","price":125,"image":"/images/11.png","available":true,"description":"Light, refreshing green tea with a clean, delicate finish.","variants":["hot"]},
+      {"id":12,"name":"Genmaicha Tea","price":125,"image":"/images/12.png","available":true,"description":"Green tea with roasted brown rice for a toasty, nutty flavor.","variants":["hot"]}
+    ]
+  },
+  {
+    "category": "Refreshers",
+    "items": [
+      {"id":13,"name":"Green Apple Fizz","price":135,"image":"/images/13.png","available":true,"description":"Crisp green apple with sparkling water and a refreshing fizz.","variants":["iced"]},
+      {"id":14,"name":"Blueberry Fizz","price":135,"image":"/images/14.png","available":true,"description":"Sweet blueberry and sparkling water, light and fruity.","variants":["iced"]},
+      {"id":15,"name":"Peach Mango Fizz","price":155,"image":"/images/15.png","available":true,"description":"Tropical peach and mango with a sparkling finish.","variants":["iced"]},
+      {"id":16,"name":"Strawberry Fizz","price":155,"image":"/images/16.png","available":true,"description":"Fresh strawberry with sparkling water, sweet and bubbly.","variants":["iced"]}
+    ]
+  },
+  {
+    "category": "Milk Series",
+    "items": [
+      {"id":17,"name":"Strawberry Milk","price":155,"image":"/images/17.png","available":true,"description":"Creamy milk with real strawberry puree, sweet and smooth.","variants":["iced"]},
+      {"id":18,"name":"Blueberry Milk","price":155,"image":"/images/18.png","available":true,"description":"Fresh blueberry and cold milk, lightly sweetened.","variants":["iced"]},
+      {"id":19,"name":"Ube Milk","price":145,"image":"/images/19.png","available":true,"description":"Purple yam and milk, rich and naturally sweet.","variants":["iced"]},
+      {"id":20,"name":"Ube Spanish Latte","price":175,"image":"/images/20.png","available":true,"description":"Ube and condensed milk with espresso, a Filipino favorite.","variants":["hot","iced"]}
+    ]
+  },
+  {
+    "category": "Cold Brew Series",
+    "items": [
+      {"id":21,"name":"Cloud Brew","price":160,"image":"/images/21.png","available":true,"description":"Smooth cold brew with a creamy cloud foam top.","variants":["iced"]},
+      {"id":22,"name":"Spanish Latte (Cold Brew)","price":160,"image":"/images/22.png","available":true,"description":"Cold brew base with condensed milk, served over ice.","variants":["iced"]},
+      {"id":23,"name":"Caramel Latte (Cold Brew)","price":160,"image":"/images/23.png","available":true,"description":"Cold brew with milk and caramel, refreshing and sweet.","variants":["iced"]},
+      {"id":24,"name":"White Mocha Latte (Cold Brew)","price":160,"image":"/images/24.png","available":true,"description":"Cold brew with white chocolate and milk over ice.","variants":["iced"]}
+    ]
+  },
+  {
+    "category": "Rice Meals",
+    "items": [
+      {"id":25,"name":"High-Protein Chicken Tapa","price":189,"image":"/images/25.png","available":true,"description":"Marinated chicken with garlic rice, egg, and atchara."},
+      {"id":26,"name":"Chicken Pops Gochujang","price":179,"image":"/images/26.png","available":true,"description":"Crispy chicken bites with Korean gochujang glaze and rice."}
+    ]
+  },
+  {
+    "category": "Snacks",
+    "items": [
+      {"id":27,"name":"Cheesy Beef Nachos","price":159,"image":"/images/27.png","available":true,"description":"Crispy nachos with seasoned beef, cheese sauce, and jalapeños."},
+      {"id":28,"name":"Flavored Fries","price":129,"image":"/images/28.png","available":true,"description":"Golden fries with your choice of seasoning and dip."}
+    ]
+  }
+]

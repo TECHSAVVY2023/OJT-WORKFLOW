@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Workflow Coworking Space",
+    "description": "The Workflow Coworking Space is a fully air-conditioned meeting room ideal for up to 20 people, complete with tables and chairs. Perfect for team meetings, workshops, and presentations.",
+    "image": "/images/venue-1.jpg",
+    "address": "Workflow Coworking Space, 2/F Infinity Business Center, Bernad Avenue, Ozamiz City, Misamis Occidental, 7200, Philippines",
+    "amenities": [
+      "High-speed internet",
+      "Power outlets",
+      "Air conditioning",
+      "Ergonomic chairs",
+      "Laptop stand",
+      "Laptop mat",
+      "Board games"
+    ],
+    "capacity": "Up to 20 people",
+    "hourlyRate": 1500,
+    "operatingHours": "8:00 AM - 10:00 PM",
+    "locationShort": "2/F Infinity Business Center"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "background": {
+    "image": "/images/venue-1.jpg",
+    "alt": "Login background - co-working space"
+  },
+  "branding": {
+    "logo": {
+      "type": "image",
+      "url": "/images/workflow.png",
+      "imageAlt": "Workflow logo"
+    },
+    "welcomeTitle": "Welcome to Workflow",
+    "tagline": "Your best work gets done",
+    "taglineHighlight": "here.",
+    "panelBackgroundColor": "#eef5e8",
+    "logoCircleColor": "#d4e8c8",
+    "highlightColor": "#8bc34a"
+  }
+}
