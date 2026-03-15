@@ -1,0 +1,5 @@
+[
+  { "id": "user-admin-1", "name": "Admin", "email": "admin@workflow.com", "role": "admin", "createdAt": "2025-01-01T00:00:00" },
+  { "id": "user-staff-1", "name": "Staff", "email": "staff@workflow.com", "role": "staff", "createdAt": "2025-01-01T00:00:00" },
+  { "id": "user-manager-1", "name": "Manager", "email": "manager@workflow.com", "role": "manager", "createdAt": "2025-01-01T00:00:00" }
+]
